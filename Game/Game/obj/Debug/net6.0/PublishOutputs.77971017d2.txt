@@ -1,5 +1,0 @@
-C:\Users\Kirill\Desktop\публикация\Game.exe
-C:\Users\Kirill\Desktop\публикация\Game.dll
-C:\Users\Kirill\Desktop\публикация\Game.deps.json
-C:\Users\Kirill\Desktop\публикация\Game.runtimeconfig.json
-C:\Users\Kirill\Desktop\публикация\Game.pdb

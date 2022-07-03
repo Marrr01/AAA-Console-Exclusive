@@ -1,0 +1,6 @@
+D:\C#_Projects\Game\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#_Projects\Game\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#_Projects\Game\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Game\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#_Projects\Game\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\C#_Projects\game\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache

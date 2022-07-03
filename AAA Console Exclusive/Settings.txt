@@ -1,0 +1,6 @@
+0//Game mode (0-with boss fight, else-endless)
+50//Field Lenght (at least 25)
+30//Field Height (at least 10)
+75//Frame refresh rate [ms] (at least 1)
+0//Show spawn chance (0-no, else-yes)
+0//Debug (0-no, else-yes)

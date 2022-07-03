@@ -1,8 +1,8 @@
 # AAA-Console-Exclusive
 Game in C# console application.
 
-Gameplay video:
+Gameplay:
 https://youtu.be/Skl5wbAZYEo
 
-Menu on Windows Forms:
+Menu:
 https://youtu.be/Nz_aZzaCIcA

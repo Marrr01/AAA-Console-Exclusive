@@ -1,5 +1,0 @@
-C:\Users\Kirill\Desktop\AAA Console Exclusive\Game.exe
-C:\Users\Kirill\Desktop\AAA Console Exclusive\Game.dll
-C:\Users\Kirill\Desktop\AAA Console Exclusive\Game.deps.json
-C:\Users\Kirill\Desktop\AAA Console Exclusive\Game.runtimeconfig.json
-C:\Users\Kirill\Desktop\AAA Console Exclusive\Game.pdb

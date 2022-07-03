@@ -1,0 +1,7 @@
+D:\C#_Projects\Game\AAA Console Exclusive\Game.exe
+D:\C#_Projects\Game\AAA Console Exclusive\Game.dll
+D:\C#_Projects\Game\AAA Console Exclusive\Game.deps.json
+D:\C#_Projects\Game\AAA Console Exclusive\Game.runtimeconfig.json
+D:\C#_Projects\Game\AAA Console Exclusive\Game.pdb
+D:\C#_Projects\Game\AAA Console Exclusive\MyLibrary.dll
+D:\C#_Projects\Game\AAA Console Exclusive\MyLibrary.pdb
